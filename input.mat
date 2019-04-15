@@ -7,7 +7,7 @@
 %% Load in N
 # name: Load
 # type: scalar
-2300000
+5000000
 
 %% Assume the Self Weight of the Footing in %
 # name: Self_Weight
@@ -20,12 +20,12 @@
 
 # name: Fy
 # type: scalar
-415
+500
 
 %% Soil_Pressure in N/mm^2
 # name: Soil_Pressure
 # type: scalar
-0.300
+0.110
 
 # name: Clear_Cover
 # type: scalar
@@ -37,7 +37,7 @@
 
 # name: Clear_Cover_for_Footing
 # type: scalar
-80
+75
 
 # name: dia
 # type: scalar
